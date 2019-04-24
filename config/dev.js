@@ -3,5 +3,6 @@ module.exports = {
     '964808011168-29vqsooppd769hk90kjbjm5gld0glssb.apps.googleusercontent.com',
   googleClientSecret: 'KnH-rZC23z4fr2CN4ISK4srN',
   mongoURI: 'mongodb://blogdev:blogdev1@ds129045.mlab.com:29045/blog_dev',
-  cookieKey: '321321321'
+  cookieKey: '321321321',
+  redisUrl: 'redis://127.0.0.1:6379'
 };
